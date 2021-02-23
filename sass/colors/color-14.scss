@@ -1,0 +1,87 @@
+$mainColor: #035f53;
+$secondColor:#159f8d;
+$thirdColor:#f0b800;
+
+$baColor1: #fffee5;
+$baColor2: #e5fad7;
+$baColor3: #fef1f4;
+
+.btn-primary {
+	background-color: $secondColor;
+	border: none;
+}
+
+.text-main-color {
+	color: $mainColor;
+}
+
+.background-main-color,
+.blog-post.layout-2 .img-out .icon-type,
+a.firo-bottom,
+.testimonial-item.layout-2 .img-in .icon,
+.blog-post.layout-4 .img-out .icon-type,
+.icon-text.layout-3 .icon,
+.icon-text.layout-2 .icon {
+	background-color: $mainColor;
+}
+
+.icon-text.layout-3 {
+	.icon {
+		&.ba-2 {
+			background-color: $secondColor;
+		}
+	}
+	&.color-2 {
+		h3 {
+			a {
+				color: $secondColor;
+			}
+		}
+	}
+}
+
+.background-second-color {
+	background-color: $secondColor;
+}
+
+.firo-title.layout-3 h2.title:before {
+	background-color: $secondColor;
+}
+
+.firo-title.layout-4 h2.title:before {
+	border-color: $secondColor;
+}
+
+.firo-title.layout-4 h2.title:after {
+	border-color: $secondColor;
+}
+
+.background-section-1 {
+	background-color: #f8f8f8;
+}
+
+.background-section-2 {
+	background-color: #e5f2c9;
+}
+
+.background-section-3 {
+	background-color: #f8f8f8;
+}
+
+
+.firo-title h2.title,
+header .contact-info .text span.title-in,
+header .contact-info .icon {
+	color: $mainColor;
+}
+
+header .contact-info .text {
+	span {
+		color: #646161;
+	}
+}
+
+.background-cons-1 {
+	background-image: url(../../../assets/img/construction-ba-1.jpg);
+	background-size: cover;
+}

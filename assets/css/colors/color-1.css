@@ -1,0 +1,23 @@
+.firo-title.layout-3 h2.title:before {
+  background-color: #ffc352;
+}
+
+.section-ba-1 {
+  background-color: #fff;
+  background-image: url(../../../assets/img/ba_1.jpg);
+  background-size: cover;
+}
+
+.section-ba-2 {
+  background-color: #fff;
+  background-image: url(../../../assets/img/ba_2.jpg);
+  background-size: cover;
+}
+
+.footer_1_ba {
+  background-color: #fff;
+  background-image: url(../../../assets/img/footer_1_ba.jpg);
+  background-size: cover;
+}
+
+/*# sourceMappingURL=color-1.css.map */

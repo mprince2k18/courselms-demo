@@ -1,0 +1,76 @@
+.background-2 {
+  background-color: #efe;
+}
+
+.firo-title.layout-3 h2.title:before,
+.background-second-color,
+.owl-theme .owl-controls .owl-page span {
+  background-color: #ffc755;
+}
+
+.text-second-color {
+  color: #ffc755;
+}
+
+.firo-title h2.title,
+.icon-text.layout-7 a.more,
+.text-main-color,
+footer.layout-light .nile-widget h2.title,
+header ul.nav-menu > li > ul.sub-menu > li.has-dropdown:after,
+header .mega-links-4columns ul.sub-menu-columns > li > a {
+  color: #74afc8;
+}
+
+.section-ba-1 {
+  background-color: #fff;
+  background-image: url(../../../assets/img/ba_1_2.jpg);
+  background-size: cover;
+}
+
+.section-ba-2 {
+  background-color: #fff;
+  background-image: url(../../../assets/img/ba_2.jpg);
+  background-size: cover;
+}
+
+.footer_1_ba {
+  background-color: #fff;
+  background-image: url(../../../assets/img/footer_1_ba.jpg);
+  background-size: cover;
+}
+
+header ul.nav-menu > li ul.sub-menu,
+header ul.nav-menu .mega-menu-out {
+  border-top-color: #ffc755;
+}
+
+.icon-text.layout-6:hover .icon-hover,
+.icon-text.layout-7:hover,
+.firo-pricing-table.layout-3:hover,
+.owl-theme .owl-controls .owl-page span {
+  border-color: #ffc755;
+}
+
+header .top-button {
+  background-color: #ffc755;
+}
+header .top-button:hover {
+  background-color: #74afc8;
+}
+
+.icon-text.layout-2:hover .icon,
+.firo-pricing-table.layout-3 a.bot:hover,
+a.firo-bottom,
+footer.layout-light .copy-right ul.social-media li a:hover {
+  background-color: #74afc8;
+}
+
+.icon-text.layout-2 .icon {
+  background-color: #ffc755;
+}
+
+.icon-text.layout-6 {
+  background-color: #f2f7fd;
+}
+
+/*# sourceMappingURL=color-5.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AASA,oCAAqC;EACjC,gBAAgB,EATP,OAAO;;;AAapB,aAAc;EACV,gBAAgB,EAAE,IAAI;EACtB,gBAAgB,EAAE,iCAAiC;EACnD,eAAe,EAAE,KAAK;;;AAG1B,aAAc;EACV,gBAAgB,EAAE,IAAI;EACtB,gBAAgB,EAAE,iCAAiC;EACnD,eAAe,EAAE,KAAK;;;AAG1B,YAAa;EACT,gBAAgB,EAAE,IAAI;EACtB,gBAAgB,EAAE,wCAAwC;EAC1D,eAAe,EAAE,KAAK",
+"sources": ["../../../sass/colors/color-1.scss"],
+"names": [],
+"file": "color-1.css"
+}

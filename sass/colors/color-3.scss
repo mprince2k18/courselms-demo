@@ -1,0 +1,80 @@
+$mainColor: #74afc8;
+$secondColor:#ffc755;
+$thirdColor:#f0b800;
+
+$baColor1: #fffee5;
+$baColor2: #e5fad7;
+$baColor3: #fef1f4;
+
+
+.firo-title.layout-3 h2.title:before,
+.background-second-color,
+.owl-theme .owl-controls .owl-page span {
+    background-color: $secondColor;
+}
+
+.text-second-color {
+    color: $secondColor;
+}
+
+.firo-title h2.title,
+.icon-text.layout-7 a.more,
+.text-main-color,
+footer.layout-light .nile-widget h2.title,
+header ul.nav-menu > li > ul.sub-menu > li.has-dropdown:after,
+header .mega-links-4columns ul.sub-menu-columns > li > a {
+    color: $mainColor;
+}
+
+.section-ba-1 {
+    background-color: #fff;
+    background-image: url(../../../assets/img/ba_1_2.jpg);
+    background-size: cover;
+}
+
+.section-ba-2 {
+    background-color: #fff;
+    background-image: url(../../../assets/img/ba_2.jpg);
+    background-size: cover;
+}
+
+.footer_1_ba {
+    background-color: #fff;
+    background-image: url(../../../assets/img/footer_1_2_ba.jpg);
+    background-size: cover;
+}
+
+
+header ul.nav-menu > li ul.sub-menu,
+header ul.nav-menu .mega-menu-out {
+    border-top-color: $secondColor;
+}
+
+.icon-text.layout-6:hover .icon-hover,
+.icon-text.layout-7:hover,
+.firo-pricing-table.layout-3:hover,
+.owl-theme .owl-controls .owl-page span {
+    border-color: $secondColor;
+}
+
+header .top-button {
+    background-color: $secondColor;
+    &:hover {
+        background-color: $mainColor;
+    }
+}
+
+.icon-text.layout-2:hover .icon,
+.firo-pricing-table.layout-3 a.bot:hover,
+a.firo-bottom,
+footer.layout-light .copy-right ul.social-media li a:hover {
+    background-color: $mainColor;
+}
+
+.icon-text.layout-2 .icon {
+    background-color: $secondColor;
+}
+
+.icon-text.layout-6 {
+    background-color: #f2f7fd;
+}

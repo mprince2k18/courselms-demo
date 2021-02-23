@@ -1,0 +1,31 @@
+$mainColor: #50627a;
+$secondColor:#ffc352;
+$thirdColor:#f0b800;
+
+$baColor1: #fffee5;
+$baColor2: #e5fad7;
+$baColor3: #fef1f4;
+
+
+.firo-title.layout-3 h2.title:before {
+    background-color: $secondColor;
+}
+
+
+.section-ba-1 {
+    background-color: #fff;
+    background-image: url(../../../assets/img/ba_1.jpg);
+    background-size: cover;
+}
+
+.section-ba-2 {
+    background-color: #fff;
+    background-image: url(../../../assets/img/ba_2.jpg);
+    background-size: cover;
+}
+
+.footer_1_ba {
+    background-color: #fff;
+    background-image: url(../../../assets/img/footer_1_ba.jpg);
+    background-size: cover;
+}

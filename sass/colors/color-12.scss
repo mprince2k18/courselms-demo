@@ -1,0 +1,100 @@
+$mainColor: #0073a2;
+$secondColor:#232323;
+$thirdColor:#f0b800;
+
+$baColor1: #fffee5;
+$baColor2: #e5fad7;
+$baColor3: #fef1f4;
+
+.btn-primary {
+	background-color: $secondColor;
+	border: none;
+}
+
+.blog-post.layout-3 .date .month {
+	color: $mainColor;
+}
+
+.background-main-color,
+.blog-post.layout-2 .img-out .icon-type,
+a.firo-bottom,
+.testimonial-item.layout-2 .img-in .icon,
+.blog-post.layout-4 .img-out .icon-type,
+.icon-text.layout-2 .icon,
+.blog-post.layout-3 .date .day {
+	background-color: $mainColor;
+}
+
+.background-second-color {
+	background-color: $secondColor;
+}
+
+.firo-title.layout-3 h2.title:before,
+.firo-call-action.layout-3 a.firo-bottom {
+	background-color: $secondColor;
+}
+
+.firo-title.layout-4 h2.title:before {
+	border-color: $secondColor;
+}
+
+.firo-title.layout-4 h2.title:after {
+	border-color: $secondColor;
+}
+
+.background-section-1 {
+	background-color: #f8f8f8;
+}
+
+
+.firo-title h2.title,
+header .contact-info .text span.title-in,
+header .contact-info .icon {
+	color: $mainColor;
+}
+
+header .contact-info .text {
+	span {
+		color: #646161;
+	}
+}
+
+.background-c-1 {
+	background-color: #efefdf;
+}
+
+.background-c-2 {
+	background-color: #cecdbc;
+}
+
+.background-cons-1 {
+	background-image: url(../../../assets/img/construction-ba-1.jpg);
+	background-size: cover;
+}
+
+
+
+
+
+
+.firo-cause-charity {
+	.prosess {
+		background-color: $secondColor;
+		.effect {
+			background-color: $secondColor;
+			&:before {
+				background-color: $secondColor;
+			}
+
+		}
+	}
+
+	.info {
+		.tfaseel {
+			color: $secondColor;
+			span {
+				color: $mainColor;
+			}
+		}
+	}
+}

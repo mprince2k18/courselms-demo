@@ -1,0 +1,53 @@
+.btn-primary {
+  background-color: #40e66f;
+  border: none;
+}
+
+.background-main-color,
+.blog-post.layout-2 .img-out .icon-type,
+a.firo-bottom,
+.testimonial-item.layout-2 .img-in .icon,
+.blog-post.layout-4 .img-out .icon-type {
+  background-color: #214a80;
+}
+
+.background-second-color {
+  background-color: #40e66f;
+}
+
+.firo-title.layout-3 h2.title:before {
+  background-color: #40e66f;
+}
+
+.firo-title.layout-4 h2.title:before {
+  border-color: #40e66f;
+}
+
+.firo-title.layout-4 h2.title:after {
+  border-color: #40e66f;
+}
+
+.background-section-1 {
+  background-color: #f8f8f8;
+}
+
+.firo-title h2.title,
+header .contact-info .text span.title-in,
+header .contact-info .icon {
+  color: #214a80;
+}
+
+header .contact-info .text span {
+  color: #646161;
+}
+
+.background-c-1 {
+  background-color: #f4fcfc;
+}
+
+.background-cons-1 {
+  background-image: url(../../../assets/img/construction-ba-1.jpg);
+  background-size: cover;
+}
+
+/*# sourceMappingURL=color-7.css.map */

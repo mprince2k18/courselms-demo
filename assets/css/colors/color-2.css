@@ -1,0 +1,72 @@
+.firo-title.layout-3 h2.title:before,
+.background-second-color,
+.owl-theme .owl-controls .owl-page span {
+  background-color: #fd847e;
+}
+
+.text-second-color {
+  color: #fd847e;
+}
+
+.firo-title h2.title,
+.icon-text.layout-7 a.more,
+.text-main-color,
+footer.layout-light .nile-widget h2.title,
+header ul.nav-menu > li > ul.sub-menu > li.has-dropdown:after,
+header .mega-links-4columns ul.sub-menu-columns > li > a {
+  color: #6b4dac;
+}
+
+.section-ba-1 {
+  background-color: #fff;
+  background-image: url(../../../assets/img/ba_1_2.jpg);
+  background-size: cover;
+}
+
+.section-ba-2 {
+  background-color: #fff;
+  background-image: url(../../../assets/img/ba_2.jpg);
+  background-size: cover;
+}
+
+.footer_1_ba {
+  background-color: #fff;
+  background-image: url(../../../assets/img/footer_1_2_ba.jpg);
+  background-size: cover;
+}
+
+header ul.nav-menu > li ul.sub-menu,
+header ul.nav-menu .mega-menu-out {
+  border-top-color: #fd847e;
+}
+
+.icon-text.layout-6:hover .icon-hover,
+.icon-text.layout-7:hover,
+.firo-pricing-table.layout-3:hover,
+.owl-theme .owl-controls .owl-page span {
+  border-color: #fd847e;
+}
+
+header .top-button {
+  background-color: #fd847e;
+}
+header .top-button:hover {
+  background-color: #6b4dac;
+}
+
+.icon-text.layout-2:hover .icon,
+.firo-pricing-table.layout-3 a.bot:hover,
+a.firo-bottom,
+footer.layout-light .copy-right ul.social-media li a:hover {
+  background-color: #6b4dac;
+}
+
+.icon-text.layout-2 .icon {
+  background-color: #fd847e;
+}
+
+.icon-text.layout-6 {
+  background-color: #f8f3f9;
+}
+
+/*# sourceMappingURL=color-2.css.map */
